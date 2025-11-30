@@ -102,7 +102,7 @@ app.py                  | Integrates all modules into a Streamlit web applicatio
    - Run: pip install -r requirements.txt
 4. Launch application:
    - Run: streamlit run app.py
-   - Open the provided local URL in your browser (default: http://localhost:8501).
+   - Open the provided local URL in your browser.
 
 5. Usage Instructions
 ---------------------
